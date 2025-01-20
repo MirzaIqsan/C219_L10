@@ -1,0 +1,4 @@
+env:
+  nodeVersion: 22.12.0       # Specify Node version
+  npmVersion: 9.0.0         # Specify npm version (not Bun)
+buildCommand: npm run build  # Set the build command to use npm
